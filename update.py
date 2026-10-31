@@ -31,7 +31,7 @@ THEMES = {  # from the site's tokens; dark is the same palette at night
 # (name, what it is, angle around the hub in degrees, 0 = right, clockwise)
 NODES = [("Jarvis", "desktop AI assistant", 215), ("Matchob", "Chrome extension", 165),
          ("Help Desk Sim", "backend API", 115), ("LanSentinel", "network scanner", 50),
-         ("AI Usage Rings", "usage widget", 310)]
+         ("AI Usage Rings", "usage widget", 310), ("Now Playing", "Spotify widget", 265)]
 
 
 def rel(then, now):
@@ -122,7 +122,7 @@ def card(theme, d, fonts=None, photo=None):
          # Each project's link lights up in turn, like the site's network map.
          f"@keyframes lit{{0%,14%{{stroke:{t['acc']};stroke-width:2}}22%,100%{{stroke:{t['wire']};stroke-width:1}}}}"
          f"@keyframes dot{{0%,14%{{fill:{t['acc']}}}22%,100%{{fill:{t['ink']}}}}}"
-         f".w{{animation:lit 12.5s infinite}}.n{{animation:dot 12.5s infinite}}"
+         f".w{{animation:lit {len(NODES) * 2.5}s infinite}}.n{{animation:dot {len(NODES) * 2.5}s infinite}}"
          "@media (prefers-reduced-motion:reduce){.w,.n{animation:none}}</style>",
          f'<defs><pattern id="g" width="18" height="18" patternUnits="userSpaceOnUse">'
          f'<circle cx="9" cy="9" r="1" fill="{t["dot"]}"/></pattern>'

@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noahrohlinger40-commits/noahrohlinger40-commits/main/card-dark.svg">
-    <img src="https://raw.githubusercontent.com/noahrohlinger40-commits/noahrohlinger40-commits/main/card-light.svg" alt="Noah Rohlinger: IT student at Florida State, seeking a 2027 internship in IT support or infrastructure. Projects: Jarvis, Matchob, Help Desk Sim, LanSentinel, AI Usage Rings.">
+    <img src="https://raw.githubusercontent.com/noahrohlinger40-commits/noahrohlinger40-commits/main/card-light.svg" alt="Noah Rohlinger: IT student at Florida State, seeking a 2027 internship in IT support or infrastructure. Projects: Jarvis, Matchob, Help Desk Sim, LanSentinel, AI Usage Rings, Now Playing.">
   </picture>
 </p>
 
@@ -11,6 +11,7 @@
 - **[Help Desk Sim](https://github.com/noahrohlinger40-commits/Help-Desk-Sim)**: the backend for an IT help desk. Tickets with SLA timers that skip nights and weekends, breach emails and escalation, admin and technician roles, and an audit trail of every change. ASP.NET Core, C#.
 - **[Matchob](https://github.com/FSU-CloudClub/CloudClub-Fall2027-Matchob)**: a Chrome extension from FSU's AWS Cloud Club that tailors a resume to a job posting. I lead the AI team and built the checks that stop it from inventing claims.
 - **[AI Usage Rings](https://github.com/noahrohlinger40-commits/ai-usage-rings)**: a small desktop widget that shows how much of my Claude, Fable and Codex usage I've used, and whether an agent is working or waiting on me. Python, tkinter.
+- **[Now Playing](https://github.com/noahrohlinger40-commits/now-playing)**: a small Spotify widget with the cover, the song, and buttons to like, skip, pause and change the volume, plus synced lyrics and muted ads. Python, tkinter.
 - **[LanSentinel](https://github.com/noahrohlinger40-commits/LanSentinel)**: a Java network scanner. Give it an IP, a range or a subnet and it checks every device in parallel and reports which ones are online.
 
 ## Latest activity
