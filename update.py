@@ -66,7 +66,7 @@ def get(path):
 
 
 def ts(s):
-    return datetime.fromisoformat(s.replace("Z", "+00:00"))
+    return datetime.fromisoformat(s.replace("Z", "+00:00")).astimezone(timezone.utc)  # same clock as now
 
 
 def title(name, tag):
@@ -174,6 +174,7 @@ def selftest():
                        (15, "2 weeks ago"), (30, "1 month ago"), (95, "3 months ago")]:
         got = rel(now - timedelta(days=days), now)
         assert got == want, (days, got)
+    assert rel(ts("2026-10-28T22:30:00-04:00"), now) == "today"  # an evening commit in Florida is the 29th in UTC
     src = f"a\n{START}\nold\n{END}\nb\n"
     assert replace_between(src, "new") == f"a\n{START}\nnew\n{END}\nb\n"
     assert replace_between(replace_between(src, "x"), "YYY").count("YYY") == 1
