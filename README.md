@@ -20,11 +20,11 @@
 - **[My-Website](https://github.com/noahrohlinger40-commits/My-Website/releases/tag/update-4) update-4**: Update 4 · 2 weeks ago
 - **[Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/releases/tag/v1.2.0) v1.2.0**: A wake-word model, a prompt-injection guard, and Jarvis's own engine · 2 weeks ago
 - **[Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/releases/tag/v1.1.0) v1.1.0**: Lecture notes, calendar, and a local voice · 1 month ago
-- Add AI Usage Rings and Now Playing project pages · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/13c2684d311c9716a564aa5809fa2c9539d75f90) · 5 days ago
-- Now Playing: a small Spotify widget for Windows · [now-playing](https://github.com/noahrohlinger40-commits/now-playing/commit/c3acc26ecad086386f4b5025937af1dce7fa7a9e) · 1 week ago
-- Layouts, colours, shapes and side columns · [ai-usage-rings](https://github.com/noahrohlinger40-commits/ai-usage-rings/commit/c650e9e7690159970cff9b4e2e27f55b4324983c) · 2 weeks ago
-- Add a README with the live site link and screenshots · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/2d762411b9e06ef28fe94d359b2620db4702f80b) · 2 weeks ago
-- Redesign the whole site and add an Experience page · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/842f67d9ea82b6763c8cce482d7ae671507cc50f) · 2 weeks ago
+- Update the AI README's who-works-where table and remove empty placeholder files · [CloudClub-Fall2027-Matchob](https://github.com/FSU-CloudClub/CloudClub-Fall2027-Matchob/commit/efe9051d9d19b8eb025bdec468e5667eb686cb79) · today
+- Use read_json in suggest and requirements instead of their own parsing · [CloudClub-Fall2027-Matchob](https://github.com/FSU-CloudClub/CloudClub-Fall2027-Matchob/commit/b35770707ccaccf7c075586eafc2caff2ccb6524) · today
+- Derive the growth-word forms and trim the heading list · [CloudClub-Fall2027-Matchob](https://github.com/FSU-CloudClub/CloudClub-Fall2027-Matchob/commit/0f1bed54eee23063ebb765da4d6cd3d6b4135fad) · 5 days ago
+- Check rank and club titles, noun forms of led, half-new wording and any section heading · [CloudClub-Fall2027-Matchob](https://github.com/FSU-CloudClub/CloudClub-Fall2027-Matchob/commit/bb86202eaa54fe782dddcb636d2fee27cf61dd7c) · 5 days ago
+- Add AI Usage Rings and Now Playing project pages · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/13c2684d311c9716a564aa5809fa2c9539d75f90) · 6 days ago
 
 _Updated daily by a GitHub Action._
 <!-- activity:end -->
