@@ -20,11 +20,11 @@
 - **[My-Website](https://github.com/noahrohlinger40-commits/My-Website/releases/tag/update-4) update-4**: Update 4 · 3 weeks ago
 - **[Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/releases/tag/v1.2.0) v1.2.0**: A wake-word model, a prompt-injection guard, and Jarvis's own engine · 3 weeks ago
 - **[Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/releases/tag/v1.1.0) v1.1.0**: Lecture notes, calendar, and a local voice · 1 month ago
-- Rebuild the site around the 3D network map · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/cbe1260c9ddcfce9bf66513770adf6fc957275bb) · 5 days ago
+- Fix map labels, show the name at once, update out-of-date lines · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/56bfd0cdc6c7bd2cb89dabeb910eebf7f068c035) · today
+- Rebuild the site around the 3D network map · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/cbe1260c9ddcfce9bf66513770adf6fc957275bb) · 6 days ago
 - Update the AI README's who-works-where table and remove empty placeholder files · [CloudClub-Fall2027-Matchob](https://github.com/FSU-CloudClub/CloudClub-Fall2027-Matchob/commit/efe9051d9d19b8eb025bdec468e5667eb686cb79) · 1 week ago
 - Use read_json in suggest and requirements instead of their own parsing · [CloudClub-Fall2027-Matchob](https://github.com/FSU-CloudClub/CloudClub-Fall2027-Matchob/commit/b35770707ccaccf7c075586eafc2caff2ccb6524) · 1 week ago
 - Derive the growth-word forms and trim the heading list · [CloudClub-Fall2027-Matchob](https://github.com/FSU-CloudClub/CloudClub-Fall2027-Matchob/commit/0f1bed54eee23063ebb765da4d6cd3d6b4135fad) · 1 week ago
-- Check rank and club titles, noun forms of led, half-new wording and any section heading · [CloudClub-Fall2027-Matchob](https://github.com/FSU-CloudClub/CloudClub-Fall2027-Matchob/commit/bb86202eaa54fe782dddcb636d2fee27cf61dd7c) · 1 week ago
 
 _Updated daily by a GitHub Action._
 <!-- activity:end -->
