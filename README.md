@@ -20,11 +20,11 @@
 - **[My-Website](https://github.com/noahrohlinger40-commits/My-Website/releases/tag/update-4) update-4**: Update 4 · 3 weeks ago
 - **[Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/releases/tag/v1.2.0) v1.2.0**: A wake-word model, a prompt-injection guard, and Jarvis's own engine · 3 weeks ago
 - **[Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/releases/tag/v1.1.0) v1.1.0**: Lecture notes, calendar, and a local voice · 1 month ago
-- Fix map labels, show the name at once, update out-of-date lines · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/56bfd0cdc6c7bd2cb89dabeb910eebf7f068c035) · today
-- Rebuild the site around the 3D network map · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/cbe1260c9ddcfce9bf66513770adf6fc957275bb) · 6 days ago
-- Update the AI README's who-works-where table and remove empty placeholder files · [CloudClub-Fall2027-Matchob](https://github.com/FSU-CloudClub/CloudClub-Fall2027-Matchob/commit/efe9051d9d19b8eb025bdec468e5667eb686cb79) · 1 week ago
-- Use read_json in suggest and requirements instead of their own parsing · [CloudClub-Fall2027-Matchob](https://github.com/FSU-CloudClub/CloudClub-Fall2027-Matchob/commit/b35770707ccaccf7c075586eafc2caff2ccb6524) · 1 week ago
-- Derive the growth-word forms and trim the heading list · [CloudClub-Fall2027-Matchob](https://github.com/FSU-CloudClub/CloudClub-Fall2027-Matchob/commit/0f1bed54eee23063ebb765da4d6cd3d6b4135fad) · 1 week ago
+- Jarvis's own engine first, LM Studio only when it gets stuck · [Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/commit/63a2e900ef67a058b2d214ee55cdbdb1285fd446) · today
+- Remove unused features and over-built code from a second audit · [Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/commit/6ca5782c7017f1b994692413830b36b3dfa9cf45) · today
+- Honesty gate, step-by-step checklists, a tutor, file search, and a cleanup · [Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/commit/cefea3ccba4f3b262ca98d2b02d5655505176ba4) · today
+- Fix map labels, show the name at once, update out-of-date lines · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/56bfd0cdc6c7bd2cb89dabeb910eebf7f068c035) · yesterday
+- Rebuild the site around the 3D network map · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/cbe1260c9ddcfce9bf66513770adf6fc957275bb) · 1 week ago
 
 _Updated daily by a GitHub Action._
 <!-- activity:end -->
