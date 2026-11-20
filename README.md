@@ -20,11 +20,11 @@
 - **[My-Website](https://github.com/noahrohlinger40-commits/My-Website/releases/tag/update-4) update-4**: Update 4 · 3 weeks ago
 - **[Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/releases/tag/v1.2.0) v1.2.0**: A wake-word model, a prompt-injection guard, and Jarvis's own engine · 3 weeks ago
 - **[Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/releases/tag/v1.1.0) v1.1.0**: Lecture notes, calendar, and a local voice · 1 month ago
-- Jarvis's own engine first, LM Studio only when it gets stuck · [Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/commit/63a2e900ef67a058b2d214ee55cdbdb1285fd446) · today
-- Remove unused features and over-built code from a second audit · [Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/commit/6ca5782c7017f1b994692413830b36b3dfa9cf45) · today
-- Honesty gate, step-by-step checklists, a tutor, file search, and a cleanup · [Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/commit/cefea3ccba4f3b262ca98d2b02d5655505176ba4) · today
-- Fix map labels, show the name at once, update out-of-date lines · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/56bfd0cdc6c7bd2cb89dabeb910eebf7f068c035) · yesterday
-- Rebuild the site around the 3D network map · [My-Website](https://github.com/noahrohlinger40-commits/My-Website/commit/cbe1260c9ddcfce9bf66513770adf6fc957275bb) · 1 week ago
+- Remove unused tools and features · [Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/commit/0c9d2eb8a79c43a737cf3ff685e3d628aa70cd89) · yesterday
+- Fix mic calibration turning the boost too low · [Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/commit/88d3f339500b6bc597c6ab2f90d07b5663e91a36) · yesterday
+- Jarvis's own engine first, LM Studio only when it gets stuck · [Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/commit/63a2e900ef67a058b2d214ee55cdbdb1285fd446) · yesterday
+- Remove unused features and over-built code from a second audit · [Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/commit/6ca5782c7017f1b994692413830b36b3dfa9cf45) · yesterday
+- Honesty gate, step-by-step checklists, a tutor, file search, and a cleanup · [Jarvis](https://github.com/noahrohlinger40-commits/Jarvis/commit/cefea3ccba4f3b262ca98d2b02d5655505176ba4) · yesterday
 
 _Updated daily by a GitHub Action._
 <!-- activity:end -->
